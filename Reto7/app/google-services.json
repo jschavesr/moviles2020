@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370738953643",
+    "firebase_url": "https://multiplayertictoc.firebaseio.com",
+    "project_id": "multiplayertictoc",
+    "storage_bucket": "multiplayertictoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370738953643:android:9c86a9eacd43946c3026ee",
+        "android_client_info": {
+          "package_name": "co.edu.unal.androidtic_tac_toe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370738953643-hq2q54hltk17f3lv2bm85ml0pvpvi9sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX_j-1cNCASWpK0g7Du1d9WtPK7tS2SbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370738953643-hq2q54hltk17f3lv2bm85ml0pvpvi9sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
