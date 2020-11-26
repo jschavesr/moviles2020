@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Puntos Vivelab</string>
+    <string-array name="month_list">
+        <item>TODOS</item>
+        <item>BOGOTA</item>
+        <item>AMAZONAS</item>
+        <item>ANTIOQUIA</item>
+        <item>ARAUCA</item>
+        <item>ATLANTICO</item>
+        <item>BOLIVAR</item>
+        <item>BOYACA</item>
+        <item>CALDAS</item>
+        <item>CAQUETÁ</item>
+        <item>CASANARE</item>
+        <item>CAUCA</item>
+        <item>CESAR</item>
+        <item>CHOCÓ</item>
+        <item>CÓRDOBA</item>
+        <item>CUNDINAMARCA</item>
+        <item>GUAINÍA</item>
+        <item>GUAVIARE</item>
+        <item>HUILA</item>
+        <item>LA GUAJIRA</item>
+        <item>MAGDALENA</item>
+        <item>META</item>
+        <item>NARIÑO</item>
+        <item>NORTE DE SANTANDER</item>
+        <item>PUTUMAYO</item>
+        <item>QUINDÍO</item>
+        <item>RISARALDA</item>
+        <item>SAN ANDRÉS Y PROVIDENCIA</item>
+        <item>SANTANDER</item>
+        <item>SUCRE</item>
+        <item>TOLIMA</item>
+        <item>VALLE</item>
+        <item>VAUPÉS</item>
+        <item>VICHADA</item>
+    </string-array>
+</resources>
